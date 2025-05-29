@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styleEk.css" rel="stylesheet">
+    <title>EK-fashion Blog</title>
+</head>
+<!--fin de head-->
+<header>
+    <h1>EK-Fashion</h1>
+</header>
+<body>
+    <section>
+        <div class="categorie">
+            <a href="./Ek fashion.html" class="nouveau">NOUVEAUTÉ</a>
+                <a href="./robeEk.html" class="robe"> ROBE</a>
+                    <a href="./pantalon.html" class="panthalon"> PANTHALON</a>
+                     <a class="t-shirt">T-SHIRTS</a>
+                        <a class="sac">SAC À MAIN</a>
+        </div>
+    <p id="accueil">Renouvelez votre garde-robe pour la saison à venir avec les 
+        nouveautés pour femme. Reposant sur une qualité remarquable et une confection
+         intemporelle, cette sélection pose les fondations de la collection COS, avec
+          notamment des t-shirts soignés, un prêt-à-porter classique en denim, des robes
+           sophistiquées, des mailles modernes et tailleurs raffinés. Nos chaussures et 
+           nouveaux accessoires apporteront la touche d'élégance qui manquait à vos tenues.</p>
+            <figure>
+                <img src="./complet.JPG" height="530" width="450"/><figcaption>ENSEMBLE DAME : $25</figcaption>
+                <img src="./RobeXX.jpg" height="500" width="450"/><figcaption>ROBE DAME : $25</figcaption>
+                <img src="./RobeX.jpg" height="500" width="450"/>
+                <figcaption>ROBE SOIRÉE DAME : $25</figcaption>
+            </figure>
+            <ul>
+                <li>Panthalon fluide</li>
+            </ul>
+        </section>
+        <figure class="figure1">
+        <p>Modernisant les codes du tailoring, ce pantalon présente une forme portefeuille
+                 qui se noue à la taille. Confectionné en Lyocell TENCEL fluide, il dessine une
+                  silhouette asymétrique aux plis le long de chaque jambe.</p>
+        <div></div>
+        <div></div>
+        <footer>
+            &copy; Copyright. EK-fashion 2025 All Rights Reserved
+        </footer>
+    </body>
+</html>
